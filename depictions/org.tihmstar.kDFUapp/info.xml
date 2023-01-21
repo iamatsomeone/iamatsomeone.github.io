@@ -1,0 +1,25 @@
+<package>
+	<id>org.tihmstar.kDFUapp</id>
+	<name>kDFUapp</name>
+	<version>1.0.2</version>
+	<compatibility>
+		<firmware>
+			<maxiOS>10.3.4</maxiOS>
+			<otherVersions>unconfirmed</otherVersions>
+			<!--
+			for otherVersions, you can put either unsupported or unconfirmed
+			-->
+		</firmware>
+	</compatibility>
+	<dependencies>kloader</dependencies>
+	<dependencies>libcrippy</dependencies>
+	<dependencies>libpartialzip</dependencies>
+	<descriptionlist>
+		<description>idk</description>
+	</descriptionlist>
+	<screenshots></screenshots>
+	<changelog>
+		<change>really REAL...</change>
+	</changelog>
+	<links></links>
+</package>
