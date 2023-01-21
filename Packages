@@ -34,7 +34,7 @@ Depends: firmware (>6.0)
 Architecture: iphoneos-arm
 Filename: ./debs/org.tihmstar.kDFUApp-1.0.2.deb
 Size: 860
-MD5sum: 8c606f0c05217aa2a20949091fe516f0
+MD5sum: d2fb236c946705c835a08f844527f0c1
 Description: kDFU shit idk
 Name: kDFUapp
 Author: tihmstar
