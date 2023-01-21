@@ -20,37 +20,37 @@ Depends: firmware (>6.0)
 Architecture: iphoneos-arm
 Filename: ./debs/libcrippy-1.0.0.deb
 Size: 860
-MD5sum: d2fb236c946705c835a08f844527f0c1
+MD5sum: d0057e3946594ac6c18b7112383955e5
 Description: kDFU shit idk
 Name: libcrippy
 Author: Ich denke nicht
-Depiction: https://iamatsomeone.github.io/depictions/?p=org.tihmstar.kDFUapp
+Depiction: https://iamatsomeone.github.io/depictions/?p=libcrippy
 
 Package: libpartialzip
-Version: 1.0.2
+Version: 1.0.0
 Section: Tweaks
 Maintainer: Reposi3 <reposithree@gmail.com>
 Depends: firmware (>6.0)
 Architecture: iphoneos-arm
-Filename: ./debs/org.tihmstar.kDFUApp-1.0.2.deb
+Filename: ./debs/libpartialzip-1.0.0.deb
 Size: 860
-MD5sum: d2fb236c946705c835a08f844527f0c1
+MD5sum: ab609167a1653beda05eb2876f2500bd
 Description: kDFU shit idk
 Name: kDFUapp
 Author: Ich denke nicht
-Depiction: https://iamatsomeone.github.io/depictions/?p=org.tihmstar.kDFUapp
+Depiction: https://iamatsomeone.github.io/depictions/?p=libpartialzip
 
 Package: org.tihmstar.kloader
-Version: 1.0.2
+Version: 1.0.0
 Section: Tweaks
 Maintainer: Reposi3 <reposithree@gmail.com>
 Depends: firmware (>6.0)
 Architecture: iphoneos-arm
 Filename: ./debs/kloader-1.0.0.deb
 Size: 860
-MD5sum: d2fb236c946705c835a08f844527f0c1
+MD5sum: 16347bf66c0c84e4870d2cbba42d1dee
 Description: kDFU shit idk
 Name: kDFUapp
 Author: Ich denke nicht
-Depiction: https://iamatsomeone.github.io/depictions/?p=org.tihmstar.kDFUapp
+Depiction: https://iamatsomeone.github.io/depictions/?p=org.tihmstar.kloader
 
