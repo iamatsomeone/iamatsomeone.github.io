@@ -1,6 +1,9 @@
 body {
     margin: 1em;
 }
+body.pinstripe {
+    background: url(https://iamatsomeone.github.io/texture.png)
+}
 .card {
     margin-bottom: 1em;
 }
