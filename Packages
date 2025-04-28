@@ -54,3 +54,17 @@ Name: kDFUapp
 Author: Ich denke nicht
 Depiction: https://iamatsomeone.github.io/depictions/?p=org.tihmstar.kloader
 
+Package: dev.preloading.retranslate
+Version: 1.1.0
+Section: Tweaks
+Maintainer: Nobody
+Depends: firmware (>3.0)
+Architecture: iphoneos-arm
+Filename: ./debs/dev.preloading.retranslate-1.1.0.deb
+Size: 24576
+MD5sum: 16347bf66c0c84e4870d2cbba42d1dee
+Description: Google Translate fix for iPhoneOS 3.0+
+Name: ReTranslate
+Author: Preloading
+Depiction: https://iamatsomeone.github.io/depictions/?p=org.tihmstar.kloader
+

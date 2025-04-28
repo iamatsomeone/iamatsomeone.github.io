@@ -1,0 +1,24 @@
+<package>
+	<id>dev.preloading.retranslate</id>
+	<name>ReTranslate</name>
+	<version>1.0.0-1</version>
+	<compatibility>
+		<firmware>
+			<maxiOS>10.3.4</maxiOS>
+			<otherVersions>unsupported</otherVersions>
+			<!--
+			for otherVersions, you can put either unsupported or unconfirmed
+			-->
+		</firmware>
+	</compatibility>
+	<dependencies></dependencies>
+	<descriptionlist>
+		<description>Google Translate fix for iPhoneOS 3+ </description>
+	</descriptionlist>
+	<screenshots></screenshots>
+	<changelog>
+		<change>ios 3 support added</change>
+		<change>translate away</change>
+	</changelog>
+	<links></links>
+</package>
